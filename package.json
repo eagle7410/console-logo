@@ -1,0 +1,19 @@
+{
+  "name": "console-logo",
+  "version": "1.0.0",
+  "description": "write in console big my name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eagle7410/console-logo.git"
+  },
+  "author": "Igor Stcherbina <verycooleagle@gmail.com> (http://github.com/eagle7410)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eagle7410/console-logo/issues"
+  },
+  "homepage": "https://github.com/eagle7410/console-logo#readme"
+}
